@@ -120,6 +120,8 @@ to say HuskyThreesome:
 
 to say HuskyAlphaWin:
 
+to say SexTiger:
+
 to say SexHornyTiger:
 
 to say TigerSexMarathon:
@@ -134,7 +136,14 @@ to say SoloFight:
 	else:
 		challenge "Husky Bitch";
 	if fightoutcome < 20: [player won]
-		say " 		You've bested the husky, and they lie on the floor, spent. Looking around the fight has been taken out of the huskies, and they scamper off out of the front doors with their tails between their legs, carrying as many of their knocked out comrades as they can. Only the husky alpha, unconcious husky bitch, the tigress and you remain in the store."
+		say " 		You've bested the husky, and they lie on the floor, spent. Looking around the fight has been taken out of the huskies, and they scamper off out of the front doors with their tails between their legs, carrying as many of their knocked out comrades as they can. Only the debilitated husky alpha, unconscious husky bitch, the tigress and you remain in the store."
+		say "Satisfied that the huskies won't not pose a problem anymore, the tigress turns to you. 'Ah, my darling little hero' She calls out. 'Helping dear ol me to fend off those ruffians.' She turns around, strolling towards the nest of clothing and bends over forward, raising her long striped tail as she rests upon the edge of the mound of clothes, giving you a good look at her big huggable ass. Her dark pink liabia peeks out from her creamy white fur covered crotch, and they wink open occasionally, revealing the damp black depths of her cunt. You can clearly see the sideboob that her six breasts create as she presses them down against the pile of fabrics, the black stripes that run down their sides disdented out with the curve of her breasts. Her raven black ass-length hair drapes over her muscular back and over the sides of her round but taut ass, mixing with her tiger stripes."
+		say"'Come and claim your reward little hero, come and satisfy your ravenous tigress.' She calls out to you, she looks from over her shoulder, her eyes burning with lust and passion."
+		say "     ([link]Y[as]y[end link]) - Accept her invitation.";
+		say "     ([link]N[as]n[end link]) - Decline.";
+		if Player consents:[Accept]
+			say"[SexTiger]"
+		else:[Decline]
 	else if fightoutcome > 19 and fightoutcome < 30: [lost]
 		if MaleList is not banned:
 			say "     You've been bested by the alpha and are thrown to the floor. Having had the fight taken out of you, he takes his position over you and he [StripCrotch] and lines up his cock with your [if Player is female]pussy[else if Player is male]asshole[else]smooth and sexless area of your crotch[end if] prepared to claim you as his. Just before he is able to thrust, a thick white and orange furred hand wraps around his neck as he is is pulled away from you by the tigress.";
@@ -142,8 +151,26 @@ to say SoloFight:
 			say "     You've been bested by the husky and are thrown to the floor. Having had the fight taken out of you, the husky bitch climbs on top of you and she [StripCrotch]. The husky bitch gives attention to your [if Player is female]pussy[else if Player is male]asshole[else]smooth and sexless area of your crotch[end if] as she lines her own croth with your face. Her slobering canine spade drips with horny lust and eagerness, spatting your face with fluids as she prepares to go to town on you to mark you as property of the pack. Just before she is able to thrust herself upon your [Face of Player], a loud ROAR stops her in her tracks. As she turns away from violating you, you get a glimpse of what has happened, the tigress has managed to grab the husky alpha by the neck, and is raising him off the ground."
 		say "'STOP, ALL OF YOU!' The tigress snarls out at the other huskies with her hackles raised, her thick fur spiking up, making her already large form more intimidating . Holding the alpha aloft by the neck, her claws begin to dig into his skin. He squirms in her grasp with his legs flailing helplessly mid air and his hands scrabbling at the grip around his throat in a vain attempt to break free. Seeing their alpha caught in such a state, the assault by the rest of the pack screeches to a halt, all eyes coming to rest upon her commanding form. 'Leave, NOW!' She commands the pack, but they remain frozen in place until one brave, or cowardly husky bitch takes a step away and turns tail to leave. The rest take this que to scamper off out of the front doors with their tails between their legs, carrying as many of their knocked out comrades as they can, as the tiger woman watches them leave. The alpha husky makes one last token attempt to break free, craning his neck in an attempt to bite some part of her arm, but the fight leaves him as he sees his pack abandon him. Soon, the shop is empty save for the tiger woman, the alpha still being held by his throat, the unconcious husky bitch, and you."
 		say"The tigress tosses the alpha husky into the nest of clothing that adorns the center of the room and he lies there, gasping for air. She walks over to you and squats down, leaning over to inspecting your wounds. 'Are you alright, you poor darling?' She asks you with a look of motherly concern, her deep yet distinctly female voice rumbles your core. You manage a weak nod, the nanites going through your system will get you up and running in no time. 'My little hero, jumping in to help me. Silly you, those ruffians are no match for me. You needn't have worried.' She muses while propping you up against the store counter. She continues to nurse your wounds, unintentionally giving you a close look of her breasts as she fusses over you. Six of them, the top pair as big as basketballs and decreasing in size as they go down, jostle for space as she reaches to wipe some grime off your [Face of Player], each one of them is capped with a small black dome that peaks through her white belly fuzz, her onyx nipples protrude proudly from the center of each of her areola and glisten with moisture."
-		say"'All that fighting has got me really hot and bothered, and you're in no shape to help needy old me.' The tigress says, satisfied with her inspection of you. She stands, giving you a good look at her thick fleshy dark-pink feline labia that sticks out of her black snatch, slick with sweat and feminine juices that have matted the fine creamy fuzz around her crotch between her two shapely muscular thighs. Turning around, she prowls toward the nest in the middle of the store, her striped tail giving your cheek one last caress as you're treated to a view of her huggable ass, which bounces as she saunters away."
+		say"'All that fighting has got me really hot and bothered, and you're in no shape to help needy ol me.' The tigress says, satisfied with her inspection of you. She stands, giving you a good look at her thick fleshy dark-pink petals of her snatch, slick with sweat and feminine juices that have matted the fine creamy fuzz around her crotch between her two shapely muscular thighs. Turning around, she prowls toward the nest in the middle of the store, her striped tail giving your cheek one last caress as you're treated to a view of her huggable ass, which bounces as she saunters away."
 		say "[TigerSexMarathon]"
+		say "Having given you some time to recover, she props herself up in her love nest and looks over to where you rest. You can see that the firey lust in her eyes has not dissipated as her hazel irises settle upon you. 'Have you rested enough, little darling? I hope you enjoyed my little show, would you like to come over and join me?'"
+		say "     ([link]Y[as]y[end link]) - Accept her invitation.";
+		say "     ([link]N[as]n[end link]) - Decline.";
+		if Player consents:[Accept]
+			say"The tigress leans back and spreads herself out over the bedding that lines the love nest, presenting herself to you in all her glory. Her dark pink liabia peek out from beneath her orange sized testicles, they wink open occasionally, revealing the damp black depths of her cunt. Her pink knotted kitty cock lies unsheathed in the valley between her breasts. One hand beckons you over, as the other brushes over her barbed penis, traveling upward and caressing her breasts before coming to a stop at one of her nipples as she pinches it teasingly."
+			say"[SexHornyTiger]"
+		else:[Decline]
+			say"'Ah, that is too bad, perhaps when you're feeling better.' the tigress remarks with a hint of pity. 'Help yourself to some snacks and drinks in that corner, you're free to stay as long as you want.' she adds, guesturing to the pile of food and drink. You manage to get up on your feet and grab a bottle of water and a can of food. Feeling that you've stayed too long in the tiger's den, you grab your gear and prepare to set off. The tigress, seeing you set out to leave, rises from the love nest, sexual fluids dripping from her crotch, leaving an alabaster trail along the floor as she approaches you. You tense for a moment, prepared to run, thinking the tigress is going to jump you, but she simply stoops down to give you a hug from behind, enveloping your back her in her bosom and nuzzling you on the back of the head with her fluffy cheeks. 'Leaving?' She asks, her deep voice reverbrates your chest. 'Is there somewhere out there safer than my den? Seeing how it's now been trashed up by the huskies, perhaps I could move in with you?'"
+			say "     ([link]Y[as]y[end link]) - Invite her to the library.";
+			say "     ([link]N[as]n[end link]) - Tell her no.";
+			if Player consents:[invite her]
+				say:"After telling her about the library, she replies. 'Hmm... I think I'll stay in my den a little longer, though thank you dear, for your kind thoughts.'' With that she releases you from her hug, pats you on the head, and leaves you on your way out. 'I hope you do come back to visit some time, I'll be waiting.' She calls out after you, as you step out onto the street. Continuing your exploration of the city, you leave the raunchy tigress behind you."[wip bunker npc]
+
+			else:[say no]
+				say:"'Ah then, I'll make do with this den of mine. I hope you do come back to visit some time, I'll be waiting.' With that she releases you from her hug, pats you on the head, and leaves you on your way out. You step out onto the street, continuing your exploration of the city, leaving the raunchy tigress behind you."
+			[gain item 1 food 1 bottled water]
+			now Resolution of Cornered Tigress is 2;
+			now Cornered Tigress is resolved;
 
 	else if fightoutcome is 30: [fled]
 		LineBreak;
@@ -188,10 +215,10 @@ to say GroupFight1:
 			say "     ([link]Y[as]y[end link]) - Invite her to the library.";
 			say "     ([link]N[as]n[end link]) - Tell her no.";
 			if Player consents:[invite her]
-				say:"After telling her about the library, she replies. 'Hmm... I think I'll stay in my den a little longer, though thank you dear, for your kind thoughts.'' With that she releases you from her hug, pats you on the head, and leaves you on your way out. 'I hope you do come back to visit some time, I'll be waiting.' She calls out after you, as you step out onto the street, continuing your exploration of the city."[wip bunker npc]
+				say:"After telling her about the library, she replies. 'Hmm... I think I'll stay in my den a little longer, though thank you dear, for your kind thoughts.'' With that she releases you from her hug, pats you on the head, and leaves you on your way out. 'I hope you do come back to visit some time, I'll be waiting.' She calls out after you, as you step out onto the street. Continuing your exploration of the city, you leave the raunchy tigress behind you."[wip bunker npc]
 
 			else:[say no]
-				say:"'Ah then, I'll make do with this den of mine. I hope you do come back to visit some time, I'll be waiting.' With that she releases you from her hug, pats you on the head, and leaves you on your way out.'"
+				say:"'Ah then, I'll make do with this den of mine. I hope you do come back to visit some time, I'll be waiting.' With that she releases you from her hug, pats you on the head, and leaves you on your way out. You step out onto the street, continuing your exploration of the city, leaving the raunchy tigress behind you."
 			[gain item 1 food 1 bottled water]
 			now Resolution of Cornered Tigress is 2;
 			now Cornered Tigress is resolved;
