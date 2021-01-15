@@ -144,6 +144,7 @@ to say SoloFight:
 		if Player consents:[Accept]
 			say"[SexTiger]"
 		else:[Decline]
+			[wip]
 	else if fightoutcome > 19 and fightoutcome < 30: [lost]
 		if MaleList is not banned:
 			say "     You've been bested by the alpha and are thrown to the floor. Having had the fight taken out of you, he takes his position over you and he [StripCrotch] and lines up his cock with your [if Player is female]pussy[else if Player is male]asshole[else]smooth and sexless area of your crotch[end if] prepared to claim you as his. Just before he is able to thrust, a thick white and orange furred hand wraps around his neck as he is is pulled away from you by the tigress.";
