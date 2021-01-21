@@ -60,7 +60,7 @@ to say ResolveEvent Cornered Tigress:
 				say "[GroupFight1]";
 			else:[Help the Huskies]
 				now tigertracker is 12;[Charged in, helped Huskies]
-				say "     Deciding to favor the huskies, you take advantage of your suprise entrance, you charge towards the tiger woman as the other huskies hound her, slamming into the tigeress' back and sending her sprawling. Now that she's prone, the pack pounces upon her, some grabbing the assorted fabric strewn about to tie the downed tigress up. It's not long before she's completely tied up. Her mouth is gagged with a bunch of t-shirts balled up and shoved into her mouth, secured and tied around the back of her head with the sleeves of a few sweaters. Her left arm is tied to her left leg, and her right arm tied to her right leg respectively, having been shoved into the pant legs of multiple jeans and strapped up with belts. The result looks like badly botched attempt at some hybrid of dress up and yoga, but it is effective at restraining the livid tigress. Unsurprisingly her big breasts, four smaller teats, fleshy dark-pink feline quim and pucker are left easily accessible.";
+				say "     Deciding to favor the huskies, you take advantage of your suprise entrance, you charge towards the tiger woman as the other huskies hound her, slamming into the tigeress' back and sending her sprawling. Now that she's prone, the pack pounces upon her, some grabbing the assorted fabric strewn about to tie the downed tigress up. It's not long before she's completely tied up. Her mouth is gagged with a bunch of t-shirts balled up and shoved into her mouth, secured and tied around the back of her head with the sleeves of a few sweaters. Her left arm is tied to her left leg, and her right arm tied to her right leg respectively, having been shoved into the pant legs of multiple jeans and strapped up with belts. The result looks like badly botched attempt at some hybrid of dress up and yoga, but it is effective at restraining the livid tigress. Unsurprisingly her two big breasts, four smaller teats, fleshy dark-pink feline quim and pucker are left easily accessible.";
 				say "Once the tigress is subdued, the husky pack turns their attention to you.";
 				if bodyname of player is "Husky Bitch" or "Husky Alpha" and player is pure
 					say "The huskies identify you as one of their own, seeing as you look like one of them. A few members of the pack, commanded by the alpha, proceeds to carry the trussed up tigress out of the front doors of the shop as she struggles against her cloth restraints, her free tail batting at whatever is in it's path. The rest of the huskies grab and gather some of the food and water that was strewn about during the fight, and follow the alpha husky out the front door, presumably back to wherever they have made their den.";
@@ -86,7 +86,7 @@ to say ResolveEvent Cornered Tigress:
 					say "[SoloFight]";
 				else:[Help the Huskies]
 					now tigertracker is 22;[Sneaked in, help Huskies]
-					say "     From your hiding spot you lunge out at the tigeress, hoping to catch her by suprise. You charge towards the tigeress as the other huskies hound her, slamming into the tigeress and sending her sprawling. Now that she's prone, the pack pounces upon her, some grabbing the assorted fabric strewn about to tie the downed tigress up. It's not long before she's completely tied up. Her mouth is gagged with a bunch of t-shirts balled up and shoved into her mouth, secured and tied around the back of her head with the sleeves of a few sweaters. Her left arm is tied to her left leg, and her right arm tied to her right leg respectively, having been shoved into the pant legs of multiple jeans and strapped up with belts. The result looks like badly botched attempt at some hybrid of dress up and yoga, but it is effective at restraining the livid tigress. Unsurprisingly her big breasts, four smaller teats, fleshy dark-pink feline quim and pucker are left easily accessible.";
+					say "     From your hiding spot you lunge out at the tigeress, hoping to catch her by suprise. You charge towards the tigeress as the other huskies hound her, slamming into the tigeress and sending her sprawling. Now that she's prone, the pack pounces upon her, some grabbing the assorted fabric strewn about to tie the downed tigress up. It's not long before she's completely tied up. Her mouth is gagged with a bunch of t-shirts balled up and shoved into her mouth, secured and tied around the back of her head with the sleeves of a few sweaters. Her left arm is tied to her left leg, and her right arm tied to her right leg respectively, having been shoved into the pant legs of multiple jeans and strapped up with belts. The result looks like badly botched attempt at some hybrid of dress up and yoga, but it is effective at restraining the livid tigress. Unsurprisingly her two big breasts, four smaller teats, fleshy dark-pink feline quim and pucker are left easily accessible.";
 					say "Once the tigress is subdued, the husky pack turns their attention to you.";
 					if bodyname of player is "Husky Bitch" or "Husky Alpha" and player is pure
 						say "The huskies identify you as one of their own, seeing as you look like one of them. A few members of the pack, commanded by the alpha, proceeds to carry the trussed up tigress out of the front doors of the shop as she struggles against her cloth restraints, her free tail batting at whatever is in it's path. The rest of the huskies grab and gather some of the food and water that was strewn about during the fight, and follow the alpha husky out the front door, presumably back to wherever they have made their den.";
@@ -163,17 +163,16 @@ to say HuskyTigerGroupOrgy:
 	say"The first group of huskies sated for now, and you are given a moment's respite from the orgy[if player is knotted or MaleList is not banned] as they wait for knots to deflate[end if]. Managing to crane your neck to the side, you get a view of what is happening to the tigress."
 
 		if MaleList is not banned: [Alpha husky fuck, female husky on anal]
-			say "WIP";
+			say "The alpha male is busy plunging his knotted dick into the tigress' depths, his knot slipping in and out of her cavernous cunt with wet shlicks and squelches as the smaller canine rapidly humps the larger feline. For as much as the tiger snarls and squirms in her restraints, you sense lust and want shifting the tone of her growls, you feel that the tigress is enjoying the situation more than she lets on. You didn't notice at first due to your awkward position, being tied down by the knots of the various males, but the butt of another husky sticks out from under the coupling of alpha and tiger, two sets of breasts hang below this noticably feminine body who seems to be pleasuring themselves with one hand, while the other gives attention to the scrotum of the alpha as they lap up the errant juices leaking from the coupling of dog cock and cat pussy.";
 		else: [Bitch husky scissor,]
-			say "WIP";
-		if MaleList is not banned: [Male/female husky titfuck]
-			say "WIP";
-		else:
-			say "WIP";
-		say "WIP";
+			say "The tigress has been propped up crotch first and a husky bitch rides the saddle formed by the valley between the tiger's thighs. This bitch seems tougher and more rugged than the rest, probably the alpha female leading this pack. The tigress's tail grasped firmly in her mouth, she's tribbing herself with her captee with wild abandon as the sound of juicy shlicks and squelches give credence to the wetness of the pair.";
+
+		say "Two husky bitches lie to the side of the tigress, pinning her bound limbs down while tending to her chest. They give each nipple attention by licking, sucking and constant groping and pinching all of her 6 mounds, though they pay the most attention to her top two milk leaking jugs, lapping up any stray spray of kitty milk sensuously. ";
+
+		say "One last husky bitch squats over the tiger's head with one hand placed behind to support her arched body. Her other hand is busy shlicking her dripping cunt as rivulets of fem-cum drool onto the tiger below who tosses and turns her head, not wanting the husky's juices on her face.";
 		[Bitch husky frigging]
-		say "WIP";
-			[Tigeress TF into breeding husky]
+		say "For as much as the tiger snarls and squirms in her restraints, you sense lust and want shifting the tone of her growls, you feel that the tigress is enjoying the situation more than she lets on.";
+			[Huskies cum, Tigeress starts TF into breeding husky]
 to say HuskyTigerGangbang:
 
 to say HuskyTigerAlphaWin:
@@ -195,7 +194,7 @@ else:[Decline]
 	say "     ([link]Y[as]y[end link]) - Invite her to the library.";
 	say "     ([link]N[as]n[end link]) - Tell her no.";
 	if Player consents:[invite her]
-		say:"     After telling her about the library, she replies. 'Hmm... I think I'll stay in my den a little longer, though thank you dear, for your kind thoughts.'' With that she releases you from her hug, pats you on the head, and leaves you on your way out. 'I hope you do come back to visit some time, I'll be waiting, dearie.' She calls out after you, as you step out onto the street. Continuing your exploration of the city, you leave the raunchy tigress behind you."[wip bunker npc]
+		say:"     After telling her about the library, she replies. 'Hmm... I think I'll stay in my den a little longer, though thank you dear, for your kind thoughts.'' With that she releases you from her hug, pats you on the head, and leaves you on your way out. 'I hope you do come back to visit some time, I'll be waiting, dearie.' She calls out after you, as you step out onto the street. Continuing your exploration of the city, you leave the raunchy tigress behind you.(Sorry, WIP)"[wip bunker npc]
 
 	else:[say no]
 		say:"     'Ah then, I'll make do with this den of mine. I hope you do come back to visit some time, I'll be waiting dearie.' With that she releases you from her hug, pats you on the head, and leaves you on your way out. You step out onto the street, continuing your exploration of the city, leaving the raunchy tigress behind you."
